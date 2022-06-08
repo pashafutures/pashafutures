@@ -1,4 +1,1 @@
-### LOL 👋
-im live
-
-im tierd
+https://github.com/pashafutures/rsschool-cv.git
